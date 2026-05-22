@@ -673,6 +673,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "DRDY to MCU interrupt pin"
+		(exclude_from_sim no)
+		(at 233.172 73.406 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "02986bdc-2bfe-40df-9cef-2ed4d941e6e8")
+	)
 	(text "Progeamming_Connectors"
 		(exclude_from_sim no)
 		(at 143.256 63.5 0)
